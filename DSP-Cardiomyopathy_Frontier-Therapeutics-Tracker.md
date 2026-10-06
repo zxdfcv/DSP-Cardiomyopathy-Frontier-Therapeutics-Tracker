@@ -14,7 +14,7 @@
 |---|---|---|---|---|---|---|
 | 1 | IL-1 通路 | IL-1α/β、NLRP3 | Rilonacept、Canakinumab（均已获批） | 病例报告 + 体内机制 | **B** | [20][21] |
 | 2 | GSK3 抑制 | GSK3β | Tideglusib（已获批阿尔茨海默适应证） | **II 期临床 NCT06174220** | **B** | [4] |
-| 3 | **POSTN–CCL3 前馈环 ★** | POSTN / integrin–JNK / CCL3–CCR5 | Maraviroc（CCR5，已获批）、SP600125（JNK） | 临床前体内药效 | **C+** | [1] |
+| 3 | **POSTN–CCL3 前馈环** | POSTN / integrin–JNK / CCL3–CCR5 | Maraviroc（CCR5，已获批）、SP600125（JNK） | 临床前体内药效 | **C+** | [1] |
 | 4 | 抗纤维化双重靶向 | SRC + TGFβ | Saracatinib、Pirfenidone | 临床前 | C | [3] |
 | 5 | CAR-T 逆转纤维化 | FAP | 靶向 FAP 的工程化 T 细胞 | 临床前 | C | [5] |
 | 6 | sEH–EET 轴 | 可溶性环氧化物水解酶（sEH） | sEH 抑制剂（±COX-2 抑制剂 / ω-3 PUFA） | 临床前 | C | [6] |
@@ -62,7 +62,7 @@
 - **联系方式**：andrew.krahn@ubc.ca
 - **注**：GSK3β 抑制（SB216763、BIO）在 PKP2 / Dsg2 模型中已有充分证据，可同时逆转电生理异常与细胞损伤表型；但 **DSP 特异数据薄弱**，本试验是重要的验证窗口。
 
-### 2.3 POSTN–CCL3 前馈信号环 ★〔1〕〔证据级别 C+〕
+### 2.3 POSTN–CCL3 前馈信号环〔1〕〔证据级别 C+〕
 
 #### 2.3.1 文献信息
 
@@ -320,7 +320,7 @@ DSP 单倍剂量不足后的病理级联，可分为四条相对独立的"可打
    机械/结构       先天免疫     纤维化放大      桥粒蛋白补充     代谢/线粒体
         │               │           │               │              │
    Src / PKC      cGAS-STING   POSTN ⇄ CCL3     DSP-AS1 抑制    EPAS1/HIF-2α
-   → 肌节缩短      → IRF3/NF-κB  (前馈环) ★      (GapmeR/LNA2)   → 线粒体应激
+   → 肌节缩短      → IRF3/NF-κB  (前馈环)        (GapmeR/LNA2)   → 线粒体应激
         │          NLRP3/NEK7        │           EGFR 促膜转位    → ROS → 凋亡
    GSK3β/Wnt       → IL-1β      TGFβ / SRC       Apremilast           │
         │          CCR2⁺ 巨噬    PKNOX2          基因替代          FGF21
@@ -343,7 +343,7 @@ DSP 单倍剂量不足后的病理级联，可分为四条相对独立的"可打
 | 优先级 | 方向 | 理由 |
 |---|---|---|
 | **P0** | IL-1 通路（Rilonacept） | 已有人体病例成功，药物已获批，机制刚被阐明，最可能快速落地 |
-| **P0** | POSTN–CCL3 / Maraviroc ★ | 药物已获批，体内药效数据完整，靶点位于纤维化与细胞死亡的交叉点 |
+| **P0** | POSTN–CCL3 / Maraviroc | 药物已获批，体内药效数据完整，靶点位于纤维化与细胞死亡的交叉点 |
 | **P1** | DSP-AS1 / LNA2 | 唯一能上调内源性野生型 DSP 等位基因的路线，天然绕开 AAV 包装限制；已有 MR + 功能验证的完整证据链 |
 | **P1** | GSK3 抑制剂 Tideglusib | 唯一进行中的 ACM 靶向临床试验（NCT06174220），2027 年 3 月出结果 |
 | **P1** | cGAS 抑制剂 VENT-03 | II 期 2026 年下半年出数据，且试验已纳入心脏生物标志物 |
